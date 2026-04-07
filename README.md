@@ -53,10 +53,10 @@ lib/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/MrClaro/devtracker.git
+git clone https://github.com/MrClaro/dev-tracker.git
 
 # Entre na pasta
-cd devtracker
+cd dev-tracker
 
 # Instale as dependências
 flutter pub get
