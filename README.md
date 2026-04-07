@@ -42,9 +42,9 @@ Projeto prático da disciplina **Desenvolvimento para Dispositivos Móveis**.
 lib/
 ├── main.dart                  # Entrada do app e navegação principal
 └── screens/
-    ├── perfil_screen.dart     # Aba de perfil (StatelessWidget)
-    ├── estudos_screen.dart    # Aba de registro (StatefulWidget)
-    └── detalhe_screen.dart    # Tela de detalhes da sessão
+    ├── profile_screen.dart     # Aba de perfil (StatelessWidget)
+    ├── studies_screen.dart    # Aba de registro (StatefulWidget)
+    └── details_screen.dart    # Tela de detalhes da sessão
 ```
 
 ---
@@ -53,7 +53,7 @@ lib/
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/devtracker.git
+git clone https://github.com/MrClaro/devtracker.git
 
 # Entre na pasta
 cd devtracker
